@@ -1,2 +1,2 @@
 # Transferring-data-from-Google-Drive-to-Google-Cloud-Storage
-This command can help you to transferring data from Google Drive to Google Cloud Storage
+This example shows how to transfer files from your Google Drive to a Google Cloud Storage project. We mount Google Drive using the google colab tools which requires authenticating in a separate brower window. Then we authenticate and connect our Google Cloud Storage project, list all buckets, and start copying files from Google Drive to our bucket.
